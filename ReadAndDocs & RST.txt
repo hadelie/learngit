@@ -8,4 +8,5 @@ https://en.wikipedia.org/wiki/ReStructuredText
 
 
 learngit ReadTheDocs
-https://readthedocs.org/projects/readthedocsexam/
+https://readthedocs.org/projects/learngit/
+
