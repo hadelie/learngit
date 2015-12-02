@@ -1,12 +1,25 @@
 
 Read the Docs
-https://readthedocs.org
+readthedocs.org_
+
+.. _readthedocs.org https://readthedocs.org
 
 
 .rst (reStructureText)
-https://en.wikipedia.org/wiki/ReStructuredText
+en.wikipedia.org/wiki/ReStructuredText_
+
+.. _en.wikipedia.org/wiki/ReStructuredText: https://en.wikipedia.org/wiki/ReStructuredText
+
+
+.rst Specification
+docutils.sourceforge.net/docs/ref/rst/restructuredtext.html_
+
+.. _docutils.sourceforge.net/docs/ref/rst/restructuredtext.html: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 
 
 learngit ReadTheDocs
-https://readthedocs.org/projects/learngit/
+readthedocs.org/projects/learngit/_
+
+_readthedocs.org/projects/learngit/: https://readthedocs.org/projects/learngit/
+
 
