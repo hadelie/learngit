@@ -1,4 +1,4 @@
-LEARN GIT
+READ THE DOCS
 ==============
 
 
