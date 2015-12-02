@@ -3,37 +3,16 @@ LEARN GIT
 
 
 
-Read the Docs
+'Read the Docs'
+.. _'Read the Docs': https://readthedocs.org
 
-readthedocs.org_
+'.rst (reStructureText)'
+.. _'.rst (reStructureText)': https://en.wikipedia.org/wiki/ReStructuredText
 
-.. _readthedocs.org https://readthedocs.org
+'.rst Specification'
+.. _'.rst Specification': docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 
-
-
-
-.rst (reStructureText)
-
-en.wikipedia.org/wiki/ReStructuredText_
-
-.. _en.wikipedia.org/wiki/ReStructuredText: https://en.wikipedia.org/wiki/ReStructuredText
-
-
-
-
-.rst Specification
-
-docutils.sourceforge.net/docs/ref/rst/restructuredtext.html_
-
-.. _docutils.sourceforge.net/docs/ref/rst/restructuredtext.html: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
-
-
-
-
-learngit ReadTheDocs
-
-readthedocs.org/projects/learngit/_
-
-_readthedocs.org/projects/learngit/: https://readthedocs.org/projects/learngit/
+'learngit ReadTheDocs'
+.. _'learngit ReadTheDocs': https://readthedocs.org/projects/learngit/
 
 
